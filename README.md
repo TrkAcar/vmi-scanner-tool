@@ -65,7 +65,7 @@
 
 ```bash
 # 1. Repoyu klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/vmi-scanner-tool.git
+git clone https://github.com/TrkAcar/vmi-scanner-tool.git
 cd vmi-scanner-tool
 
 # 2. Bağımlılıkları kurun
@@ -314,8 +314,8 @@ Bu araç yalnızca **eğitim ve yasal güvenlik testleri** için tasarlanmışt�
 
 ## 📞 İletişim & Destek
 
-- 🐛 **Bug Bildirimi**: [Issues](https://github.com/KULLANICI_ADINIZ/vmi-scanner-tool/issues) sayfasını kullanın
-- 💡 **Özellik İsteği**: [Issues](https://github.com/KULLANICI_ADINIZ/vmi-scanner-tool/issues) sayfasından öneride bulunun
+- 🐛 **Bug Bildirimi**: [Issues](https://github.com/TrkAcar/vmi-scanner-tool/issues) sayfasını kullanın
+- 💡 **Özellik İsteği**: [Issues](https://github.com/TrkAcar/vmi-scanner-tool/issues) sayfasından öneride bulunun
 - ⭐ **Beğendiyseniz**: Projeye yıldız vermeyi unutmayın!
 
 ---
@@ -326,7 +326,7 @@ Bu araç yalnızca **eğitim ve yasal güvenlik testleri** için tasarlanmışt�
 
 Made with ❤️ by VMI Team
 
-[![GitHub stars](https://img.shields.io/github/stars/KULLANICI_ADINIZ/vmi-scanner-tool?style=social)](https://github.com/KULLANICI_ADINIZ/vmi-scanner-tool/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/KULLANICI_ADINIZ/vmi-scanner-tool?style=social)](https://github.com/KULLANICI_ADINIZ/vmi-scanner-tool/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/TrkAcar/vmi-scanner-tool?style=social)](https://github.com/TrkAcar/vmi-scanner-tool/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/TrkAcar/vmi-scanner-tool?style=social)](https://github.com/TrkAcar/vmi-scanner-tool/network/members)
 
 </div>

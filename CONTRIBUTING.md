@@ -9,7 +9,7 @@ GitHub'da sağ üstteki "Fork" butonuna tıklayın.
 
 ### 2. Yerel Kopyanızı Oluşturun
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/vmi-scanner-tool.git
+git clone https://github.com/TrkAcar/vmi-scanner-tool.git
 cd vmi-scanner-tool
 ```
 
