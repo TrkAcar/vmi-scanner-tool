@@ -4,7 +4,7 @@ Projedeki tüm önemli değişiklikler bu dosyada belgelenir.
 
 Format [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) standardına dayanır.
 
-## [3.0.0] - 2024-12-03
+## [3.0.0] - 2025-01-12
 
 ### ✨ Eklenenler
 - 🎨 Modern GUI arayüzü (tkinter)
@@ -37,14 +37,14 @@ Format [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) standardına day
 - GUI donma sorunları çözüldü
 - Port tarama timeout sorunları giderildi
 
-## [2.0.0] - 2024-11-XX
+## [2.0.0] - 2025-04-10
 
 ### ✨ Eklenenler
 - Temel ağ tarama
 - Port tarama
 - Basit raporlama
 
-## [1.0.0] - 2024-10-XX
+## [1.0.0] - 2025-02-10
 
 ### ✨ Eklenenler
 - İlk sürüm
